@@ -1,0 +1,19 @@
+.central {
+    margin-top: 1rem;
+    margin-block: center;
+    font-style: italic;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botao {
+    margin-right: 15px;
+}
+
+.colorGreen{
+    color: green;
+}
+
+.colorRed{
+    color: red;
+}
